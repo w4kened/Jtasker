@@ -6,6 +6,4 @@ public class Task {
     private int id;
     private String Description;
     private DateTimeFormatter dateOfCreating;
-
-
 }
